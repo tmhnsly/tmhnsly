@@ -2,7 +2,7 @@
 
 I'm a frontend developer in Guildford, Surrey. I've been building with React, Next.js and TypeScript since 2021, first at [Rocketmakers](https://www.rocketmakers.com) in Bath, then at Neverbland in London, plus a couple of freelance builds for the Financial Times.
 
-I like doing the design as well as the code. Lately that's meant making my own things, mostly with Claude Code alongside me.
+I like doing the design as well as the code. Lately that's meant building my own things, using AI where it helps.
 
 ### Things I've made
 
@@ -11,7 +11,7 @@ I like doing the design as well as the code. Lately that's meant making my own t
     <td width="33%" valign="top">
       <a href="https://raditz-nine.vercel.app"><img src="images/raditz.jpg" alt="The Raditz component showcase"></a>
       <p><b><a href="https://github.com/tmhnsly/raditz">Raditz</a></b><br>
-      My React component library. I use it to get a prototype looking finished on day one.<br>
+      An exploration of how an accessible, themeable component library and design system could work.<br>
       <a href="https://raditz-nine.vercel.app">Showcase</a></p>
     </td>
     <td width="33%" valign="top">
