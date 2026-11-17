@@ -1,13 +1,34 @@
-### Tom Hinsley
+## Hi, I'm Tom
 
-Frontend and design engineer in Guildford, Surrey. React, Next.js and TypeScript since 2021: a software consultancy ([Rocketmakers](https://www.rocketmakers.com)), a digital agency (Neverbland) and contract work for the Financial Times.
+I'm a frontend developer in Guildford, Surrey. I've been building with React, Next.js and TypeScript since 2021, first at [Rocketmakers](https://www.rocketmakers.com) in Bath, then at Neverbland in London, plus a couple of freelance builds for the Financial Times.
 
-I design what I build, and I build with Claude Code as a pair: written specs and plans first, every change reviewed and tested.
+I like doing the design as well as the code. Lately that's meant making my own things, mostly with Claude Code alongside me.
 
-**Building now**
+### Things I've made
 
-- [**Raditz**](https://github.com/tmhnsly/raditz): a tested React design system for fast prototypes that still look finished. 106 components, semantic tokens over Radix Colors, light and dark themes, axe checks in CI. [Showcase](https://raditz-nine.vercel.app)
-- [**Chork**](https://github.com/tmhnsly/chork): a PWA for bouldering competitions with shared live leaderboards, push notifications and a Supabase back end, covered by Playwright end-to-end tests. [chork.app](https://chork.app)
-- [**Agile Energy Dashboard**](https://github.com/tmhnsly/agile-energy-dashboard): live Octopus Agile prices with a load-shifting simulation, visx charts and Storybook. [Live](https://agile-energy-dashboard.vercel.app)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://raditz-nine.vercel.app"><img src="images/raditz.jpg" alt="The Raditz component showcase"></a>
+      <p><b><a href="https://github.com/tmhnsly/raditz">Raditz</a></b><br>
+      My React component library. I use it to get a prototype looking finished on day one.<br>
+      <a href="https://raditz-nine.vercel.app">Showcase</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://chork.app"><img src="images/chork.jpg" alt="The Chork homepage"></a>
+      <p><b><a href="https://github.com/tmhnsly/chork">Chork</a></b><br>
+      A climbing app. Run a bouldering comp at your wall and everyone shares one live leaderboard.<br>
+      <a href="https://chork.app">chork.app</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://agile-energy-dashboard.vercel.app"><img src="images/agile-energy.jpg" alt="The Agile Energy dashboard showing a week of electricity prices"></a>
+      <p><b><a href="https://github.com/tmhnsly/agile-energy-dashboard">Agile Energy</a></b><br>
+      Octopus Agile electricity prices, and the cheapest times to run the washing machine.<br>
+      <a href="https://agile-energy-dashboard.vercel.app">Live</a></p>
+    </td>
+  </tr>
+</table>
 
-More, including film and audio work, at [tomhinsley.com](https://tomhinsley.com). Open to mid-level frontend and design engineer roles: [hello@tomhinsley.com](mailto:hello@tomhinsley.com)
+There's more on [tomhinsley.com](https://tomhinsley.com), including the films and music I make when I'm not coding.
+
+I'm looking for frontend or design engineer roles, remote or hybrid in London. Say hello at [hello@tomhinsley.com](mailto:hello@tomhinsley.com) or on [LinkedIn](https://www.linkedin.com/in/tmhnsly/).
